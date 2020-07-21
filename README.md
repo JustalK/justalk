@@ -10,6 +10,6 @@ After, I moved back in France and work for **ID Interactive** as a *frontend dev
 
 And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila.
 
-![ALT TEXT](https://raw.githubusercontent.com/JustalK/justalk/master/my_filipino_wife_pinay_001.jpg)
+![ALT TEXT](https://raw.githubusercontent.com/JustalK/justalk/master/my_filipino_wife_pinay_001x500.jpg)
 
 Manila is also the city where I have met my wife <3
