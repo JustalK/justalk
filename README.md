@@ -1,4 +1,4 @@
-# Welcome to my world ! 👋
+# Justal K. - GITHUB 👋
 
 I'm Kevin, a french developer. I have been working for the last ten years for different countries around the world. With my experience, I become an expert in PHP and JavaScript. You can ask me almost anything about NodeJS, React, WordPress.
 
@@ -10,6 +10,11 @@ After, I moved back in France and work for **ID Interactive** as a *frontend dev
 
 And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila.
 
+### Website
+
+[Team KD - My blog](http://teamkd.online/ "Team KD - My blog")
+[Team KD - My Github page](https://justalk.github.io/ "Github page")
+
 ![ALT TEXT](https://raw.githubusercontent.com/JustalK/justalk/master/my_filipino_wife_pinay_001x500.jpg)
 
-Manila is also the city where I have met my wife <3
+Me and my wife <3
