@@ -13,6 +13,7 @@ And finally, I moved in Philippines and actually work for **Rumarocket** as a *b
 ### Website
 
 [Team KD - My blog](http://teamkd.online/ "Team KD - My blog")
+
 [Team KD - My Github page](https://justalk.github.io/ "Github page")
 
 ![ALT TEXT](https://raw.githubusercontent.com/JustalK/justalk/master/my_filipino_wife_pinay_001x500.jpg)
