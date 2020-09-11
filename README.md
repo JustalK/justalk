@@ -10,6 +10,10 @@ After, I moved back in France and work for **ID Interactive** as a *frontend dev
 
 And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila.
 
+### Recent Activity
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=justalk&show_icons=true)](https://github.com/justalk)
+
 ### Website
 
 [Team KD - My blog](http://teamkd.online/ "Team KD - My blog")
