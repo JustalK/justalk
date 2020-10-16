@@ -1,6 +1,6 @@
 # Justal K. - GITHUB 👋
 
-I'm Kevin, a french developer. I have been working for the last ten years for different countries around the world. With my experience, I become an expert in PHP and JavaScript. You can ask me almost anything about NodeJS, React, WordPress.
+I'm Justalk, a french developer. I have been working for the last ten years for different countries around the world. With my experience, I become an expert in PHP and JavaScript. You can ask me almost anything about NodeJS, React, WordPress.
 
 ### Recent Activity
 
