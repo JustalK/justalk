@@ -16,7 +16,7 @@ And finally, I moved in Philippines and actually work for **Rumarocket** as a *b
 
 ### Website
 
-[Team KD - My blog](http://justalk.online/ "My Portfolio")
+[My Portfolio](http://justalk.online/ "My Portfolio")
 
 [Team KD - My blog](https://teamkd.online/ "Team KD - My blog")
 
