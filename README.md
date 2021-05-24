@@ -14,14 +14,11 @@ After, I moved in France and work for **ID Interactive** as a *fullstack develop
 
 And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila.
 
-### Website
+### WEBSITE
 
-[My Portfolio](http://justalk.online/ "My Portfolio")
+[justalk.online: My Portfolio](https://justalk.online/ "My Portfolio")
+[justalk.life: My Happy Life](https://justalk.online/ "My Life")
+
+### APP
 
 [My APP Portfolio](https://play.google.com/store/apps/details?id=com.justalk.portfolio)
-
-[Team KD - My blog](https://teamkd.online/ "Team KD - My blog")
-
-[Team KD - My Github page](https://justalk.github.io/ "Github page")
-
-[Fiverr](https://www.fiverr.com/s2/5b7eb431fd)
