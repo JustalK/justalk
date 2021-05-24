@@ -17,6 +17,7 @@ And finally, I moved in Philippines and actually work for **Rumarocket** as a *b
 ### WEBSITE
 
 [justalk.online: My Portfolio](https://justalk.online/ "My Portfolio")
+
 [justalk.life: My Happy Life](https://justalk.online/ "My Life")
 
 ### APP
