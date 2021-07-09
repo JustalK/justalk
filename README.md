@@ -13,7 +13,8 @@ My journey started in Thailand with **Supersogo Co. LTD**  as a *frontend develo
 After, I moved in France and work for **ID Interactive** as a *fullstack developer*. An other web company based in Vannes. This time, I learnt a lot about PrestaShop, React, SEO and again WordPress, Symphony, JavaScript. 
 
 And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila. I discover and learn many things around automatization, React, PM2, Kubernetes, Docker, Node.js, Mongoose.
-As I become better and faster in my job, I also start working for **ManyPixels** remotely as a *Lead Fullstack Developer*. ManyPixels is a service company in design. I consolidate my knowledge in AWS, React/Next, Heroku, PM2, Prisma.  
+
+As I become better and faster in my job at Rumarocket, I also start working at the same time for **ManyPixels** remotely as a *Lead Fullstack Developer*. ManyPixels is a service company in design. I consolidate my knowledge in AWS, React/Next, Heroku, PM2, Prisma.  
 
 ### WEBSITE
 
