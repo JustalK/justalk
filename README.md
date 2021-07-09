@@ -1,6 +1,6 @@
 # Justal K. - GITHUB 👋
 
-I'm Justalk, a french developer. I have been working for the last ten years for different countries around the world. With my experience, I become an expert in different technologies. I have a prefernce for JavaScript and Node.js but my toolbox is quite well equiped. You can ask me almost anything about NodeJS, Vue.js, WordPress.
+I'm Justalk, a french developer. I have been working for different countries around the world for more than 5 years now. With my experience, I become an expert in different technologies. I have a preference for JavaScript and Node.js but my toolbox is quite well diversified You can ask me almost anything about NodeJS, Vue.js, WordPress.
 
 ### Recent Activity
 
@@ -10,9 +10,10 @@ I'm Justalk, a french developer. I have been working for the last ten years for 
 
 My journey started in Thailand with **Supersogo Co. LTD**  as a *frontend developer*. A web company based in Bangkok who taught me a lot about newsletter, wordpress and design in general. This experience improved my level with PHP, ruby and rail and javascript. It was very interesting. 
 
-After, I moved in France and work for **ID Interactive** as a *fullstack developer*. An other web company based in Vannes. This time, I learnt a lot about prestashop, react, SEO and again wordpress, javascript. 
+After, I moved in France and work for **ID Interactive** as a *fullstack developer*. An other web company based in Vannes. This time, I learnt a lot about PrestaShop, React, SEO and again WordPress, Symphony, JavaScript. 
 
-And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila.
+And finally, I moved in Philippines and actually work for **Rumarocket** as a *backend developer and System administrator*. Rumarocket is a IA company based in Manila. I discover and learn many things around automatization, React, PM2, Kubernetes, Docker, Node.js, Mongoose.
+As I become better and faster in my job, I also start working for **ManyPixels** remotely as a *Lead Fullstack Developer*. ManyPixels is a service company in design. I consolidate my knowledge in AWS, React/Next, Heroku, PM2, Prisma.  
 
 ### WEBSITE
 
